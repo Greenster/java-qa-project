@@ -43,4 +43,13 @@ public class Home_Page {
 		return element;
 
 	}
+
+	/**
+	 * @param driver
+	 * @return
+	 */
+	public static WebElement lnk_SignIn(WebDriver driver) {
+
+		return null;
+	}
 }
