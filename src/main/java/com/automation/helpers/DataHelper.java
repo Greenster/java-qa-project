@@ -1,5 +1,5 @@
 
-package com.sqa.lg.helpers;
+package com.automation.helpers;
 
 import java.io.*;
 import java.sql.*;
@@ -10,9 +10,8 @@ import org.apache.poi.hssf.usermodel.*;
 import org.apache.poi.ss.usermodel.*;
 import org.apache.poi.xssf.usermodel.*;
 
-import com.sqa.lg.helpers.data.*;
-import com.sqa.lg.helpers.data.DataType;
-import com.sqa.lg.helpers.exceptions.*;
+import com.automation.helpers.data.*;
+import com.automation.helpers.exceptions.*;
 
 public class DataHelper {
 

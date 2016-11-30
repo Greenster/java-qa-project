@@ -1,9 +1,9 @@
 
-package com.sqa.lg.helpers;
+package com.automation.helpers;
 
 import java.util.*;
 
-import com.sqa.lg.helpers.exceptions.*;
+import com.automation.helpers.exceptions.*;
 
 /**
  * RequestInput //ADDD (description of class)

@@ -1,5 +1,5 @@
 /**
- *   File Name: InvalidExcelExtensionException.java<br>
+ *   File Name: TextFormat.java<br>
  *
  *   Green, Lorne<br>
  *   Java <br>
@@ -8,10 +8,10 @@
  *
  */
 
-package com.sqa.lg.helpers.exceptions;
+package com.automation.helpers.data;
 
 /**
- * InvalidExcelExtensionException //ADDD (description of class)
+ * TextFormat //ADDD (description of class)
  * <p>
  * //ADDD (description of core fields)
  * <p>
@@ -22,6 +22,7 @@ package com.sqa.lg.helpers.exceptions;
  * @since 1.0
  *
  */
-public class InvalidExcelExtensionException extends Exception {
+public enum TextFormat {
+	CSV, JSON, TAB, XML
 
 }

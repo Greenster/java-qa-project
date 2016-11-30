@@ -8,7 +8,7 @@
  *
  */
 
-package com.sqa.lg;
+package com.automation.test;
 
 import java.util.concurrent.*;
 
@@ -19,7 +19,7 @@ import org.openqa.selenium.firefox.*;
 import org.openqa.selenium.ie.*;
 import org.testng.annotations.*;
 
-import com.sqa.lg.helpers.*;
+import com.automation.helpers.*;
 
 /**
  * BasicAutoTest //ADDD (description of class)

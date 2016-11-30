@@ -1,5 +1,5 @@
 /**
- *   File Name: DataTypesMismatchException.java<br>
+ *   File Name: CharacterCountFormatException.java<br>
  *
  *   Green, Lorne<br>
  *   Java <br>
@@ -8,10 +8,10 @@
  *
  */
 
-package com.sqa.lg.helpers.exceptions;
+package com.automation.helpers.exceptions;
 
 /**
- * DataTypesMismatchException //ADDD (description of class)
+ * CharacterCountFormatException //ADDD (description of class)
  * <p>
  * //ADDD (description of core fields)
  * <p>
@@ -22,6 +22,6 @@ package com.sqa.lg.helpers.exceptions;
  * @since 1.0
  *
  */
-public class DataTypesMismatchException extends DataTypesException {
+public class CharacterCountFormatException extends Exception {
 
 }

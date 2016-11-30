@@ -1,5 +1,5 @@
 /**
- *   File Name: DataTypesException.java<br>
+ *   File Name: BooleanFormatException.java<br>
  *
  *   Green, Lorne<br>
  *   Java <br>
@@ -8,10 +8,10 @@
  *
  */
 
-package com.sqa.lg.helpers.exceptions;
+package com.automation.helpers.exceptions;
 
 /**
- * DataTypesException //ADDD (description of class)
+ * BooleanFormatException //ADDD (description of class)
  * <p>
  * //ADDD (description of core fields)
  * <p>
@@ -22,6 +22,6 @@ package com.sqa.lg.helpers.exceptions;
  * @since 1.0
  *
  */
-public class DataTypesException extends Exception {
+public class BooleanFormatException extends Exception {
 
 }

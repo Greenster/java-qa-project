@@ -1,5 +1,5 @@
 /**
- *   File Name: DataTypesCountException.java<br>
+ *   File Name: InvalidExcelExtensionException.java<br>
  *
  *   Green, Lorne<br>
  *   Java <br>
@@ -8,10 +8,10 @@
  *
  */
 
-package com.sqa.lg.helpers.exceptions;
+package com.automation.helpers.exceptions;
 
 /**
- * DataTypesCountException //ADDD (description of class)
+ * InvalidExcelExtensionException //ADDD (description of class)
  * <p>
  * //ADDD (description of core fields)
  * <p>
@@ -22,6 +22,6 @@ package com.sqa.lg.helpers.exceptions;
  * @since 1.0
  *
  */
-public class DataTypesCountException extends DataTypesException {
+public class InvalidExcelExtensionException extends Exception {
 
 }

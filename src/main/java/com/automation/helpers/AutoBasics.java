@@ -8,7 +8,7 @@
  *
  */
 
-package com.sqa.lg.helpers;
+package com.automation.helpers;
 
 import java.io.*;
 import java.util.*;

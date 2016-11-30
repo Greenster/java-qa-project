@@ -1,5 +1,5 @@
 /**
- *   File Name: CharacterCountFormatException.java<br>
+ *   File Name: DataType.java<br>
  *
  *   Green, Lorne<br>
  *   Java <br>
@@ -8,10 +8,10 @@
  *
  */
 
-package com.sqa.lg.helpers.exceptions;
+package com.automation.helpers.data;
 
 /**
- * CharacterCountFormatException //ADDD (description of class)
+ * DataType //ADDD (description of class)
  * <p>
  * //ADDD (description of core fields)
  * <p>
@@ -22,6 +22,7 @@ package com.sqa.lg.helpers.exceptions;
  * @since 1.0
  *
  */
-public class CharacterCountFormatException extends Exception {
+public enum DataType {
+	BOOLEAN, CHAR, DOUBLE, FLOAT, INT, STRING
 
 }

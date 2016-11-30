@@ -8,7 +8,7 @@
  *   
  */
 
-package com.sqa.lg.helpers.exceptions;
+package com.automation.helpers.exceptions;
 
 /**
  * DataTypesTypeException //ADDD (description of class)

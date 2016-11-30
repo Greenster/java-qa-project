@@ -1,5 +1,5 @@
 /**
- *   File Name: DataType.java<br>
+ *   File Name: DataTypesException.java<br>
  *
  *   Green, Lorne<br>
  *   Java <br>
@@ -8,10 +8,10 @@
  *
  */
 
-package com.sqa.lg.helpers.data;
+package com.automation.helpers.exceptions;
 
 /**
- * DataType //ADDD (description of class)
+ * DataTypesException //ADDD (description of class)
  * <p>
  * //ADDD (description of core fields)
  * <p>
@@ -22,7 +22,6 @@ package com.sqa.lg.helpers.data;
  * @since 1.0
  *
  */
-public enum DataType {
-	BOOLEAN, CHAR, DOUBLE, FLOAT, INT, STRING
+public class DataTypesException extends Exception {
 
 }

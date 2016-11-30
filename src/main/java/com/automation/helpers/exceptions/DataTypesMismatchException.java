@@ -1,5 +1,5 @@
 /**
- *   File Name: TextFormat.java<br>
+ *   File Name: DataTypesMismatchException.java<br>
  *
  *   Green, Lorne<br>
  *   Java <br>
@@ -8,10 +8,10 @@
  *
  */
 
-package com.sqa.lg.helpers.data;
+package com.automation.helpers.exceptions;
 
 /**
- * TextFormat //ADDD (description of class)
+ * DataTypesMismatchException //ADDD (description of class)
  * <p>
  * //ADDD (description of core fields)
  * <p>
@@ -22,7 +22,6 @@ package com.sqa.lg.helpers.data;
  * @since 1.0
  *
  */
-public enum TextFormat {
-	CSV, JSON, TAB, XML
+public class DataTypesMismatchException extends DataTypesException {
 
 }
